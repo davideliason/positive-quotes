@@ -1,0 +1,27 @@
+{
+  "name": "positive_quotes",
+  "version": "0.0.1",
+  "description": "CRUD ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davideliason/positive-quotes.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "mongodb"
+  ],
+  "author": "David Eliason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davideliason/positive-quotes/issues"
+  },
+  "homepage": "https://github.com/davideliason/positive-quotes#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
